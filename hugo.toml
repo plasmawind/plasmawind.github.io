@@ -7,9 +7,9 @@ copyright = '© plasmawind'
 pygmentsstyle = 'monokai'
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-favicon="https://plasmawind.github.io/images/favicon.png"
+favicon = "https://plasmawind.github.io/images/favicon.png"
 
-paginate = 3
+paginate = 10 
 
 [params]
 	mode="toggle" # color-mode → light,dark,toggle or auto
