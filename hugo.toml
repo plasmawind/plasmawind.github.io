@@ -7,7 +7,7 @@ copyright = '© plasmawind'
 pygmentsstyle = 'monokai'
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-favicon="https://plasmawind.github.io/images/favicon.ico"
+favicon="https://plasmawind.github.io/images/favicon.png"
 
 paginate = 3
 
