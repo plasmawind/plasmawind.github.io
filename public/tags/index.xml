@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on plasmawind</title>
+    <link>https://plasmawind.github.io/tags/</link>
+    <description>Recent content in Tags on plasmawind</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© plasmawind</copyright>
+    <lastBuildDate>Sun, 20 Aug 2023 08:20:19 +0530</lastBuildDate><atom:link href="https://plasmawind.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>howto</title>
+      <link>https://plasmawind.github.io/tags/howto/</link>
+      <pubDate>Sun, 20 Aug 2023 08:20:19 +0530</pubDate>
+      
+      <guid>https://plasmawind.github.io/tags/howto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>https://plasmawind.github.io/tags/tutorial/</link>
+      <pubDate>Sun, 20 Aug 2023 08:20:19 +0530</pubDate>
+      
+      <guid>https://plasmawind.github.io/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

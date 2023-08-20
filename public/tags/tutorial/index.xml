@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tutorial on plasmawind</title>
+    <link>https://plasmawind.github.io/tags/tutorial/</link>
+    <description>Recent content in tutorial on plasmawind</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© plasmawind</copyright>
+    <lastBuildDate>Sun, 20 Aug 2023 08:20:19 +0530</lastBuildDate><atom:link href="https://plasmawind.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making HTTP POST request using curl</title>
+      <link>https://plasmawind.github.io/posts/making-http-requests-from-curl/</link>
+      <pubDate>Sun, 20 Aug 2023 08:20:19 +0530</pubDate>
+      
+      <guid>https://plasmawind.github.io/posts/making-http-requests-from-curl/</guid>
+      <description>Pre-requisite(s) terminal access with internet curl installed </description>
+    </item>
+    
+  </channel>
+</rss>
